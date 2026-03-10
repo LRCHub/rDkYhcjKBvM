@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "今宵、この指とまれ!",
+  "base_artist": "PiXMiX",
+  "createdAt": "2026-03-10T01:40:01.058450Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "今宵、この指とまれ!",
+      "artist": "PiXMiX",
+      "has_synced": false,
+      "path": "select/pl_01_今宵、この指とまれ!_PiXMiX.txt"
+    }
+  ]
+}
